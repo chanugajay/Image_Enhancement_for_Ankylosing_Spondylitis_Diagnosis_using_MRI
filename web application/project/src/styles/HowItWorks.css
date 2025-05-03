@@ -1,0 +1,48 @@
+/* How It Works Section */
+.how-it-works-section {
+  @apply py-16 bg-gradient-to-b from-gray-50 to-white;
+}
+
+.how-it-works-header {
+  @apply text-center mb-16;
+}
+
+.process-grid {
+  @apply grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16;
+}
+
+.process-card {
+  @apply bg-white rounded-xl shadow-lg p-6 relative;
+}
+
+.process-number {
+  @apply absolute -top-4 -left-4 w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center font-bold;
+}
+
+.process-icon-container {
+  @apply w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mb-4 mx-auto;
+}
+
+.benefits-section {
+  @apply bg-white rounded-xl shadow-xl p-8 mb-16;
+}
+
+.benefit-card {
+  @apply flex items-start gap-4 p-4 rounded-lg hover:bg-gray-50 transition-colors;
+}
+
+.tech-section {
+  @apply bg-gray-900 text-white rounded-xl shadow-xl p-8;
+}
+
+.tech-grid {
+  @apply grid md:grid-cols-3 gap-6;
+}
+
+.tech-card {
+  @apply bg-gray-800 rounded-lg p-6 border border-gray-700;
+}
+
+.tech-icon-container {
+  @apply w-12 h-12 bg-blue-900 rounded-full flex items-center justify-center mb-4;
+}

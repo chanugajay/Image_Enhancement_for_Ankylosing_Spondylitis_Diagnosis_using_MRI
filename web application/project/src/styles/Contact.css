@@ -1,0 +1,50 @@
+/* Contact Section */
+.contact-section {
+  @apply py-24 bg-gradient-to-b from-gray-50 to-white;
+}
+
+.contact-header {
+  @apply text-center mb-16;
+}
+
+.contact-grid {
+  @apply grid lg:grid-cols-2 gap-12 items-start;
+}
+
+/* Contact Info Card */
+.contact-info-card {
+  @apply bg-white rounded-2xl shadow-xl overflow-hidden;
+}
+
+.contact-info-content {
+  @apply p-8;
+}
+
+.contact-info-item {
+  @apply flex items-center space-x-4;
+}
+
+.contact-icon-container {
+  @apply w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center;
+}
+
+.contact-image {
+  @apply w-full h-48 object-cover rounded-lg;
+}
+
+/* Contact Form */
+.contact-form {
+  @apply bg-white rounded-2xl shadow-xl p-8;
+}
+
+.form-input-container {
+  @apply space-y-6;
+}
+
+.input-field {
+  @apply w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-200;
+}
+
+.submit-button {
+  @apply w-full bg-blue-600 text-white py-4 px-6 rounded-lg font-semibold hover:bg-blue-700 transition-colors flex items-center justify-center space-x-2;
+}
