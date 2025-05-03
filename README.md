@@ -76,7 +76,8 @@ This project is for academic and research purposes only.
 
 🤝 Acknowledgements
 
-Supervised by Mr. Pasindu Marambe 
+Supervised by Mr. Salitha Perera 
+
 Special thanks to domain experts for validating the dataset and application
 
 
