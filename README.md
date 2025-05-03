@@ -16,7 +16,6 @@ Ankylosing Spondylitis is a progressive inflammatory disease affecting the spine
 
 ## 🏗️ Architecture
 
-```plaintext
 [Input MRI Image]
         ↓
 [CLAHE Enhancement]
@@ -76,14 +75,8 @@ Integrate with hospital Electronic Health Records (EHR)
 This project is for academic and research purposes only.
 
 🤝 Acknowledgements
-Pretrained VGG16 model from Keras Applications
 
-Public MRI datasets from Kaggle
+Supervised by Mr. Pasindu Marambe 
+Special thanks to domain experts for validating the dataset and application
 
-yaml
-Copy
-Edit
 
----
-
-Let me know if you want to add GIF demos, model files, or deployment instructions too!
