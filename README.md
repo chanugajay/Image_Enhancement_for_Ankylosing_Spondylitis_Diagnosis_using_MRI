@@ -102,6 +102,21 @@ Integrate with hospital Electronic Health Records (EHR)
 ---
 
 ## 📷 Screenshots
+<img width="1919" height="952" alt="Screenshot 2025-03-24 001010" src="https://github.com/user-attachments/assets/9e5cec6e-59bb-44bd-83fe-163a795aefe0" />
+<img width="1917" height="946" alt="Screenshot 2025-03-24 001206" src="https://github.com/user-attachments/assets/696a02be-252a-4154-aad7-1d9f0a602ce1" />
+<img width="1919" height="946" alt="Screenshot 2025-03-24 001244" src="https://github.com/user-attachments/assets/a2b1cc2a-dc47-444b-81cd-4f3257f2c5b9" />
+<img width="1919" height="1019" alt="Screenshot 2025-03-24 001311" src="https://github.com/user-attachments/assets/521326ed-0d68-401a-a56e-f415a3370c9c" />
+<img width="959" height="435" alt="image" src="https://github.com/user-attachments/assets/a652401f-8a65-4c2c-b60b-23c71fa34724" />
+<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/df4d5818-300c-4964-a9c5-bb7d46511711" />
+<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/43991abd-8dab-4437-a37f-bde7c918dffb" />
+
+
+
+
+
+
+
+
 
 
 
