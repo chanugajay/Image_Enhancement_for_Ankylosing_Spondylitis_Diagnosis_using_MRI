@@ -44,6 +44,7 @@ F1 Score: 0.80
 
 | Tier              | Technologies                                                             |
 |-------------------|---------------------------------------------------------------------------|
+| **Frontend**       | React.js, TypeScript, Vite                                               |
 | **Language**       | Python                                                                   |
 | **Libraries**      | TensorFlow, Keras, OpenCV, NumPy, Matplotlib                             |
 | **Model**          | Pretrained VGG16 with custom Dense layers                                |
